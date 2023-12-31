@@ -2,4 +2,4 @@
 
 
 const body=document.querySelector('body');
-body.innerText="DOM load sucess";
+body.innerText="DOM load success";
